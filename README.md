@@ -5,6 +5,7 @@ API REST para autenticação de usuários desenvolvida com Node.js.
                                                         ---------Sobre o projeto----------
 
 Esta API permite o cadastro e login de usuários com autenticação baseada em JSON Web Token (JWT). As senhas são armazenadas de forma segura utilizando criptografia com bcrypt.
+Este projeto faz parte de um sistema completo de autenticação com frontend em Vue.js e backend em Node.js.
 
  Tecnologias
 
