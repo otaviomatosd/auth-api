@@ -68,6 +68,11 @@ Observações
 * O arquivo `.env` não deve ser versionado.
 * A pasta `node_modules` é ignorada pelo Git.
 
+ Frontend
+
+Interface disponível em:
+https://github.com/otaviomatosd/auth-vue
+
 Autor
 
 Otávio Matos
